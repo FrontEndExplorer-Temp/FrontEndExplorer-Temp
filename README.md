@@ -46,6 +46,15 @@
 
 </div>
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [JobTrackr](https://github.com/FrontEndExplorer-Temp/JobTrackr) | A full-stack job tracking app to manage applications, interviews, and deadlines efficiently. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| [ThiraiView](https://github.com/FrontEndExplorer-Temp/ThiraiView) | A movie review & discovery platform with real-time ratings and user-generated content. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| [Spend-Log](https://github.com/FrontEndExplorer-Temp/spend-log) | A personal expense tracker to log, categorize, and analyze daily spending with visual charts. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+
+
 ## 🐍 GitHub Contribution Snake
 <div align="center">
 
@@ -61,8 +70,16 @@
 ---
 
 ### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=FrontEndExplorer-Temp&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=FrontEndExplorer-Temp&color=0e75b6&style=plastic)](https://github.com/FrontEndExplorer-Temp)
+
 
 </div>
+
+
+## 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/Email-rpurushothaman500@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rpurushothaman500@gmail.com)   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Purushothaman%20R-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothaman-r-web-dev/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@n_a_r_e_s_h_7-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/n_a_r_e_s_h_7/)
 
 
