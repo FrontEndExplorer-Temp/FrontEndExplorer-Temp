@@ -9,10 +9,16 @@
 
 <!-- Typing SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+%26+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+%26+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
-  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+%26+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
+
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
+
+  <img alt="Typing SVG" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;MERN+Stack+Specialist;Building+Scalable+Web+Apps&center=true">
 </picture>
+
 
 <br>
 
@@ -38,67 +44,98 @@
 </a>
 
 </div>
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
-### 🖥️ Frontend
+## 🖥️ Frontend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=light">
-  <img alt="Frontend Skills" src="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=light">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=react&nextjs&js&html&tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://skillicons.dev/icons?i=react&nextjs&js&html&tailwind&theme=light">
+  <img alt="Frontend Skills" 
+    src="https://skillicons.dev/icons?i=react&nextjs&js&html&tailwind&theme=light">
 </picture>
 
-### ⚙️ Backend
+## ⚙️ Backend
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,npm,prisma,postman&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,npm,prisma,postman&theme=light">
-  <img alt="Backend Skills" src="https://skillicons.dev/icons?i=nodejs,express,npm,prisma,postman&theme=light">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=nodejs&express&npm&prisma&postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://skillicons.dev/icons?i=nodejs&express&npm&prisma&postman&theme=light">
+  <img alt="Backend Skills" 
+    src="https://skillicons.dev/icons?i=nodejs&express&npm&prisma&postman&theme=light">
 </picture>
 
-### 🗄️ Databases
+## 🗄️ Databases
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=light">
-  <img alt="Database Skills" src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=light">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=mongodb&postgres&mysql&theme=dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://skillicons.dev/icons?i=mongodb&postgres&mysql&theme=light">
+  <img alt="Database Skills" 
+    src="https://skillicons.dev/icons?i=mongodb&postgres&mysql&theme=light">
 </picture>
 
-### ☁️ Deployment & DevOps
+## ☁️ Deployment & DevOps
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify,docker,aws&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify,docker,aws&theme=light">
-  <img alt="DevOps Skills" src="https://skillicons.dev/icons?i=vercel,netlify,docker,aws&theme=light">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=vercel&netlify&docker&aws&theme=dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://skillicons.dev/icons?i=vercel&netlify&docker&aws&theme=light">
+  <img alt="DevOps Skills" 
+    src="https://skillicons.dev/icons?i=vercel&netlify&docker&aws&theme=light">
 </picture>
 
-### 🧰 Tools & Collaboration
+## 🧰 Tools & Collaboration
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,trello&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,trello&theme=light">
-  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,vscode,trello&theme=light">
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://skillicons.dev/icons?i=git&github&vscode&trello&theme=dark">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://skillicons.dev/icons?i=git&github&vscode&trello&theme=light">
+  <img alt="Tools" 
+    src="https://skillicons.dev/icons?i=git&github&vscode&trello&theme=light">
 </picture>
+
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<div align="center" style="display:flex; align-items:center; justify-content:center; gap:12px;">
 
-<!-- Row 1: All 3 Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="32%">
-</picture>
+  <!-- 1️⃣ GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
+    <img alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"
+      width="32%">
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false">
-  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false">
-  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false" width="32%">
-</picture>
+  <!-- 2️⃣ Top Languages (moved from 3rd → 2nd) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+    <img alt="Top Languages" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+      width="32%">
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="32%">
-</picture>
+  <!-- 3️⃣ Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false">
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false">
+    <img alt="Streak Stats" 
+      src="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false"
+      width="32%">
+  </picture>
 
 </div>
+
 
 
 
