@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 Hey there! I'm a Full Stack JavaScript Developer<br><br>💻 Currently working on: Building end-to-end web apps with modern JS frameworks and clean architecture.<br>🤝 Open to collaborate on: Open-source projects involving React, Node.js, or Next.js.<br>🌱 Learning: Advanced backend patterns, database optimization, and DevOps fundamentals.<br>💬 Ask me about: JavaScript, REST APIs, responsive design, and performance tuning.<br>⚡ Fun fact: I love crafting smooth user experiences that merge design and logic seamlessly!
 
+<!-- Typing SVG: Dynamic switching for Light/Dark mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;React+%26+Next.js+Specialist;Building+Scalable+Web+Apps">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;React+%26+Next.js+Specialist;Building+Scalable+Web+Apps">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2563EB&random=false&width=435&lines=Full+Stack+JavaScript+Developer;Open+Source+Enthusiast;React+%26+Next.js+Specialist;Building+Scalable+Web+Apps">
+</picture>
+
+<br>
+
+💻 Currently working on: Building end-to-end web apps with modern JS frameworks and clean architecture.<br>
+🤝 Open to collaborate on: Open-source projects involving React, Node.js, or Next.js.<br>
+🌱 Learning: Advanced backend patterns, database optimization, and DevOps fundamentals.<br>
+💬 Ask me about: JavaScript, REST APIs, responsive design, and performance tuning.<br>
+⚡ Fun fact: I love crafting smooth user experiences that merge design and logic seamlessly!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_a_r_e_s_h_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/purushothaman-r-web-dev) 
@@ -8,78 +21,165 @@
 # 💻 Tech Stack:
 
 ### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat&logo=ejs&logoColor=black)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=light">
+  <img alt="Frontend Skills" src="https://skillicons.dev/icons?i=react,nextjs,js,html,tailwind&theme=light">
+</picture>
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,npm,prisma,postman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,npm,prisma,postman&theme=light">
+  <img alt="Backend Skills" src="https://skillicons.dev/icons?i=nodejs,npm,prisma,postman&theme=light">
+</picture>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres&theme=light">
+  <img alt="Database Skills" src="https://skillicons.dev/icons?i=mongodb,postgres&theme=light">
+</picture>
 
 ### ☁️ Deployment & DevOps
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel,netlify&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel,netlify&theme=light">
+  <img alt="DevOps Skills" src="https://skillicons.dev/icons?i=vercel,netlify&theme=light">
+</picture>
 
 ### 🧰 Tools & Collaboration
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github&theme=light">
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,github&theme=light">
+</picture>
 
 # 📊 GitHub Stats:
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)<br/>
+<!-- GitHub Stats Card -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github">
+</picture>
+<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=flag-india&hide_border=false)<br/>
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false">
+  <img alt="Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&theme=default&hide_border=false">
+</picture>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Top Languages -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+</picture>
+<br/>
+
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FrontEndExplorer-Temp&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=FrontEndExplorer-Temp&theme=default">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=FrontEndExplorer-Temp&theme=default">
+</picture>
 
 </div>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [JobTrackr](https://github.com/FrontEndExplorer-Temp/JobTrackr) | A full-stack job tracking app to manage applications, interviews, and deadlines efficiently. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| [ThiraiView](https://github.com/FrontEndExplorer-Temp/ThiraiView) | A movie review & discovery platform with real-time ratings and user-generated content. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| [Spend-Log](https://github.com/FrontEndExplorer-Temp/spend-log) | A personal expense tracker to log, categorize, and analyze daily spending with visual charts. | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-
-
-## 🐍 GitHub Contribution Snake
 <div align="center">
 
-![snake gif](https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/output/github-contribution-grid-snake.svg)
+<!-- JobTrackr -->
+<a href="https://github.com/FrontEndExplorer-Temp/JobTrackr">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=JobTrackr&theme=tokyonight&hide_border=false&hide=stars,forks">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=JobTrackr&theme=default&hide_border=false&hide=stars,forks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=JobTrackr&theme=default&hide_border=false&hide=stars,forks" alt="JobTrackr" />
+</picture>
+</a>
+
+<!-- ThiraiView -->
+<a href="https://github.com/FrontEndExplorer-Temp/ThiraiView">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=ThiraiView&theme=tokyonight&hide_border=false&hide=stars,forks">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=ThiraiView&theme=default&hide_border=false&hide=stars,forks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=ThiraiView&theme=default&hide_border=false&hide=stars,forks" alt="ThiraiView" />
+</picture>
+</a>
+
+<!-- Spend-Log -->
+<a href="https://github.com/FrontEndExplorer-Temp/spend-log">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=spend-log&theme=tokyonight&hide_border=false&hide=stars,forks">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=spend-log&theme=default&hide_border=false&hide=stars,forks">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=FrontEndExplorer-Temp&repo=spend-log&theme=default&hide_border=false&hide=stars,forks" alt="Spend-Log" />
+</picture>
+</a>
 
 </div>
 
-## 🏆 GitHub Trophies
+
+## 🐍 GitHub Contributions
+
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=FrontEndExplorer-Temp&theme=flag-india&no-frame=true&no-bg=false&margin-w=8)
+<!-- Snake Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/output/github-contribution-grid-snake.svg">
+  <img alt="Snake Stats" src="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
----
+<br/>
+
+<!-- 3D Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/main/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/main/profile-3d-contrib/profile-green.svg">
+  <img alt="3D Contribution Graph" src="https://github.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/blob/main/profile-3d-contrib/profile-green.svg">
+</picture>
+
+</div>
+
+## 🧩 Random Dev Joke
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=default">
+  <img alt="Random Dev Joke" src="https://readme-jokes.vercel.app/api?theme=default">
+</picture>
+
+</div>
+
+<div align="center">
 
 ### 👀 Profile Views
-[![Profile Views](https://komarev.com/ghpvc/?username=FrontEndExplorer-Temp&color=0e75b6&style=plastic)](https://github.com/FrontEndExplorer-Temp)
-
+<!-- Views Badge (Using classic blue for generic, or can use variable if needed, but simple badge is fine) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=FrontEndExplorer-Temp&color=7aa2f7&style=flat)](https://github.com/FrontEndExplorer-Temp)
 
 </div>
 
 
 ## 📫 Contact Me
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-rpurushothaman500@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:rpurushothaman500@gmail.com)   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Purushothaman%20R-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushothaman-r-web-dev/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@n_a_r_e_s_h_7-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/n_a_r_e_s_h_7/)
 
+</div>
 
+<!-- Animated Footer: Dynamic Switch -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/submarine-footer.svg">
+  <source media="(prefers-color-scheme: light)" srcset=".github/assets/submarine-footer-light.svg">
+  <img alt="Animated Footer" src=".github/assets/submarine-footer-light.svg" width="100%" style="width:100%">
+</picture>
