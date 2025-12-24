@@ -3,11 +3,11 @@
   <!-- Header Banner -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=280&section=header&text=FrontEndExplorer-Temp&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=280&section=header&text=purushothaman-web&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cae8ff,100:2563EB&height=280&section=header&text=FrontEndExplorer-Temp&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20">
+      srcset="https://capsule-render.vercel.app/api?type=waving&color=0:cae8ff,100:2563EB&height=280&section=header&text=purushothaman-web&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20">
     <img
-      src="https://capsule-render.vercel.app/api?type=waving&color=0:cae8ff,100:2563EB&height=280&section=header&text=FrontEndExplorer-Temp&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:cae8ff,100:2563EB&height=280&section=header&text=purushothaman-web&fontSize=80&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer&descFontSize=20"
       alt="Header"
       width="100%" />
   </picture>
@@ -114,14 +114,14 @@
 
   <td align="center" width="33%">
       <img
-  src="https://github-readme-stats.vercel.app/api?username=FrontEndExplorer-Temp&show_icons=true&rank_icon=github&hide_border=false"
+  src="https://github-readme-stats.vercel.app/api?username=purushothaman-web&show_icons=true&rank_icon=github&hide_border=false"
   alt="GitHub Stats" width="90%"
 />
     </td>
     <!-- Left: Shorter -->
     <td align="center" width="34%">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrontEndExplorer-Temp&layout=compact&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?usernamepurushothaman-web&layout=compact&hide_border=false"
         alt="Top Languages" width="100%"
       />
     </td>
@@ -129,7 +129,7 @@
 
   <td align="center" width="33%">
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=FrontEndExplorer-Temp&hide_border=false"
+        src="https://nirzak-streak-stats.vercel.app/?user=purushothaman-web&hide_border=false"
         alt="GitHub Streak" width="90%"
       />
     </td>
@@ -161,12 +161,12 @@
   <!-- Snake Contribution Graph -->
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/purushothaman-web/purushothaman-web/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/output/github-contribution-grid-snake.svg">
+      srcset="https://raw.githubusercontent.com/purushothaman-web/purushothaman-web/output/github-contribution-grid-snake.svg">
     <img
       alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/FrontEndExplorer-Temp/FrontEndExplorer-Temp/output/github-contribution-grid-snake.svg" />
+      src="https://raw.githubusercontent.com/purushothaman-web/purushothaman-web/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
