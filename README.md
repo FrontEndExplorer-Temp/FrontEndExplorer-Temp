@@ -106,41 +106,6 @@
 </p>
 
 
-
-## 📊 GitHub Stats
-
-<table align="center"  width="100%">
-  <tr>
-
-  <td align="center" width="33%">
-      <img
-  src="https://github-readme-stats.vercel.app/api?username=purushothaman-web&show_icons=true&rank_icon=github&hide_border=false"
-  alt="GitHub Stats" width="90%"
-/>
-    </td>
-    <!-- Left: Shorter -->
-    <td align="center" width="34%">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushothaman-web&layout=compact&hide_border=false"
-  alt="Top Languages" width="100%"
-/>
-    </td>
-
-
-  <td align="center" width="33%">
-      <img
-        src="https://nirzak-streak-stats.vercel.app/?user=purushothaman-web&hide_border=false"
-        alt="GitHub Streak" width="90%"
-      />
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
 ## 🖥️ Activity & Contributions
 
 <div align="center">
