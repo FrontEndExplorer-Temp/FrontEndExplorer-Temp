@@ -120,10 +120,10 @@
     </td>
     <!-- Left: Shorter -->
     <td align="center" width="34%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?usernamepurushothaman-web&layout=compact&hide_border=false"
-        alt="Top Languages" width="100%"
-      />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=purushothaman-web&layout=compact&hide_border=false"
+  alt="Top Languages" width="100%"
+/>
     </td>
 
 
